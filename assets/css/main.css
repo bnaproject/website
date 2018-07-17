@@ -28,7 +28,7 @@
 		direction: rtl;
 	}
 
-	.content > p {
+	.content > p, .inner > p {
 		text-align: justify;
 	}
 
