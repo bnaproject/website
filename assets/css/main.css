@@ -3920,5 +3920,17 @@
 
 	}
 
-.mr-2 { margin-right: 1.5em; }
-.center { text-align: center; }
+
+/* Customizations */
+.content-list > p + p { padding: 5px 20px; }
+.content-list > p > b { margin-right: -15px; font-size: 24px; color: #4ae99a; }
+
+/* Generic */
+.mr-2 { margin-right: 1.5em !important; }
+.mt-2 { margin-top: 1.5em !important; }
+.mt-3 { margin-top: 2em !important; }
+.mt-4 { margin-top: 2.5em !important; }
+.text-center, .center { text-align: center !important; }
+.text-left { text-align: left !important; }
+.text-right { text-align: right !important; }
+.border-0 { border: none !important; }
