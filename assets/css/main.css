@@ -3924,6 +3924,9 @@
 /* Customizations */
 .content-list > p + p { padding: 5px 20px; }
 .content-list > p > b { margin-right: -15px; font-size: 24px; color: #4ae99a; }
+#banner h2 + h3 {
+	font-size: 1.75em;
+}
 
 /* Generic */
 .mr-2 { margin-right: 1.5em !important; }
